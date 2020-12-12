@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: deepspeech-training
+Version: 0.9.0a10
+Summary: Training code for DeepSpeech
+Home-page: https://github.com/mozilla/DeepSpeech
+Author: DeepSpeech authors
+License: MPL-2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Multimedia :: Sound/Audio :: Speech
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.5, <4
